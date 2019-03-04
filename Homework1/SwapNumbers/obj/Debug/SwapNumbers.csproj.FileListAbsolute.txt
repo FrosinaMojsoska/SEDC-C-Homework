@@ -1,0 +1,7 @@
+C:\Users\Win 8.1\source\repos\Homework1\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\source\repos\Homework1\SwapNumbers\obj\Debug\SwapNumbers.csprojAssemblyReference.cache
+C:\Users\Win 8.1\source\repos\Homework1\SwapNumbers\bin\Debug\SwapNumbers.exe.config
+C:\Users\Win 8.1\source\repos\Homework1\SwapNumbers\bin\Debug\SwapNumbers.exe
+C:\Users\Win 8.1\source\repos\Homework1\SwapNumbers\bin\Debug\SwapNumbers.pdb
+C:\Users\Win 8.1\source\repos\Homework1\SwapNumbers\obj\Debug\SwapNumbers.exe
+C:\Users\Win 8.1\source\repos\Homework1\SwapNumbers\obj\Debug\SwapNumbers.pdb

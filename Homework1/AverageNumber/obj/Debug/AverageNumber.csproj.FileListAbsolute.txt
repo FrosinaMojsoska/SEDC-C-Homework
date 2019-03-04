@@ -1,0 +1,7 @@
+C:\Users\Win 8.1\source\repos\Homework1\AverageNumber\bin\Debug\AverageNumber.exe.config
+C:\Users\Win 8.1\source\repos\Homework1\AverageNumber\bin\Debug\AverageNumber.exe
+C:\Users\Win 8.1\source\repos\Homework1\AverageNumber\bin\Debug\AverageNumber.pdb
+C:\Users\Win 8.1\source\repos\Homework1\AverageNumber\obj\Debug\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\source\repos\Homework1\AverageNumber\obj\Debug\AverageNumber.exe
+C:\Users\Win 8.1\source\repos\Homework1\AverageNumber\obj\Debug\AverageNumber.pdb
+C:\Users\Win 8.1\source\repos\Homework1\AverageNumber\obj\Debug\AverageNumber.csprojAssemblyReference.cache

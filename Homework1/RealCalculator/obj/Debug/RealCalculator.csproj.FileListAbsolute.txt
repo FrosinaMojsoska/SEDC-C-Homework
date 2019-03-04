@@ -1,0 +1,7 @@
+C:\Users\Win 8.1\source\repos\Homework1\RealCalculator\bin\Debug\RealCalculator.exe.config
+C:\Users\Win 8.1\source\repos\Homework1\RealCalculator\bin\Debug\RealCalculator.exe
+C:\Users\Win 8.1\source\repos\Homework1\RealCalculator\bin\Debug\RealCalculator.pdb
+C:\Users\Win 8.1\source\repos\Homework1\RealCalculator\obj\Debug\RealCalculator.csprojAssemblyReference.cache
+C:\Users\Win 8.1\source\repos\Homework1\RealCalculator\obj\Debug\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\source\repos\Homework1\RealCalculator\obj\Debug\RealCalculator.exe
+C:\Users\Win 8.1\source\repos\Homework1\RealCalculator\obj\Debug\RealCalculator.pdb
