@@ -1,0 +1,6 @@
+C:\Users\Win 8.1\source\repos\Homework2\StudentGroup\bin\Debug\StudentGroup.exe.config
+C:\Users\Win 8.1\source\repos\Homework2\StudentGroup\bin\Debug\StudentGroup.exe
+C:\Users\Win 8.1\source\repos\Homework2\StudentGroup\bin\Debug\StudentGroup.pdb
+C:\Users\Win 8.1\source\repos\Homework2\StudentGroup\obj\Debug\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\source\repos\Homework2\StudentGroup\obj\Debug\StudentGroup.exe
+C:\Users\Win 8.1\source\repos\Homework2\StudentGroup\obj\Debug\StudentGroup.pdb
