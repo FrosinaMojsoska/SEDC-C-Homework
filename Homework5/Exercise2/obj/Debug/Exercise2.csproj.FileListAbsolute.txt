@@ -1,0 +1,11 @@
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2\bin\Debug\Exercise2Classes.dll
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2\bin\Debug\Exercise2Classes.pdb
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2\bin\Debug\Exercise2Classes.dll.config
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2\obj\Debug\Exercise2.csproj.CopyComplete
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2\obj\Debug\Exercise2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2Classes\bin\Debug\Exercise2Classes.dll.config
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2Classes\bin\Debug\Exercise2Classes.dll
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2Classes\bin\Debug\Exercise2Classes.pdb
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2Classes\obj\Debug\Exercise2Classes.csprojAssemblyReference.cache
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2Classes\obj\Debug\Exercise2Classes.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2Classes\obj\Debug\Exercise2Classes.dll
+C:\Users\Win 8.1\source\repos\Homework5\Exercise2Classes\obj\Debug\Exercise2Classes.pdb
