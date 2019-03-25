@@ -1,0 +1,6 @@
+C:\Users\Win 8.1\source\repos\homework6\Task1Class\bin\Debug\Task1Class.dll
+C:\Users\Win 8.1\source\repos\homework6\Task1Class\bin\Debug\Task1Class.pdb
+C:\Users\Win 8.1\source\repos\homework6\Task1Class\obj\Debug\Task1Class.csprojAssemblyReference.cache
+C:\Users\Win 8.1\source\repos\homework6\Task1Class\obj\Debug\Task1Class.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\source\repos\homework6\Task1Class\obj\Debug\Task1Class.dll
+C:\Users\Win 8.1\source\repos\homework6\Task1Class\obj\Debug\Task1Class.pdb

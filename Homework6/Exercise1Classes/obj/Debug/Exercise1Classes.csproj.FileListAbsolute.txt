@@ -1,0 +1,6 @@
+C:\Users\Win 8.1\source\repos\homework6\Exercise1Classes\bin\Debug\Exercise1Classes.dll
+C:\Users\Win 8.1\source\repos\homework6\Exercise1Classes\bin\Debug\Exercise1Classes.pdb
+C:\Users\Win 8.1\source\repos\homework6\Exercise1Classes\obj\Debug\Exercise1Classes.csprojAssemblyReference.cache
+C:\Users\Win 8.1\source\repos\homework6\Exercise1Classes\obj\Debug\Exercise1Classes.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\source\repos\homework6\Exercise1Classes\obj\Debug\Exercise1Classes.dll
+C:\Users\Win 8.1\source\repos\homework6\Exercise1Classes\obj\Debug\Exercise1Classes.pdb
